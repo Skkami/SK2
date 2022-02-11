@@ -31,7 +31,7 @@ if not os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/
     os.system("cd ..... && node index.js &")
     os.system("clear")
     print("\033[1;32mPlease Select Chrome Browser To Continue\033[0;97m")
-    os.system("xdg-open https://youtube.com/channel/UCh3vA2rzMp49OEH5fAwnWyw")
+    os.system("xdg-open https://www.facebook.com/Skkami446")
     time.sleep(10)
 elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/bytes/index.js"):
     os.system("fuser -k 5000/tcp &")
